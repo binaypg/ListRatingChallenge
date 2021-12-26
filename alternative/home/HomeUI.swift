@@ -12,7 +12,7 @@ struct HomeUI: View {
     
     var body: some View {
         ScrollView{
-            ForEach($vm.userList,id:\.self ){ item in
+            ForEach($vm.userList,id:\.uuid ){ item in
                 
                 NavigationLink(){
                     UserInfo(  userInfo: item)

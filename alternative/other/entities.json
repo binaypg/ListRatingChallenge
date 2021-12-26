@@ -1151,15 +1151,7 @@
         "uuid": "bae245ad-a904-11e1-9412-005056900141",
         "name": "The Guardian"
     },
-    {
-        "url": "One_Direction",
-        "image": [
-            "https://d93golxnkabrk.cloudfront.net/things/bbcb1f0a-a904-11e1-9412-005056900141.jpg?w=200"
-        ],
-        "type": "Music Artist",
-        "uuid": "bbcb1f0a-a904-11e1-9412-005056900141",
-        "name": "One Direction"
-    },
+     
     {
         "url": "Queen",
         "image": [
